@@ -1,4 +1,4 @@
-# Analyzing Job Sectors?
+# Analyzing Job Sectors
 
 Link to [project demo](<URL>)
 
@@ -7,16 +7,11 @@ In this PowerBI study, we will explore the U.S. job market dataset to uncover in
 ## Directories
 
 data - contains all of our datasets used to create our PowerBI dashboard
-
 src - contains source code used to clean and modify our data to fit our usage
 
 ### Credits
 Najel Alarcon
-
 Annie Ha
-
 Mayuka Kothuru
-
 Jiyoon Lee
-
 Devesh Singh
